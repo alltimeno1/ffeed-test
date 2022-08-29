@@ -1,0 +1,31 @@
+{
+  "name": "ffeed-test",
+  "version": "1.0.0",
+  "description": "alphabet_a_coding_test",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alltimeno1/ffeed-test.git"
+  },
+  "author": "KSJ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alltimeno1/ffeed-test/issues"
+  },
+  "homepage": "https://github.com/alltimeno1/ffeed-test#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "mysql2": "^2.3.3",
+    "prettier": "^2.7.1",
+    "sequelize": "^6.21.4",
+    "sequelize-cli": "^6.4.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
+}
